@@ -5,14 +5,18 @@ const path = require('path');
 
 app.set('view engine', 'ejs');
 
+// Compile our sass
 app.use(sass({
   /* Options */
-  src: __dirname,
-  dest: path.join(__dirname, 'public'),
+  src: __dirname + '/sass',
+  dest: __dirname + '/public/css',
   debug: true,
-  outputStyle: 'compressed'
+  outputStyle: 'compressed',
 }));
 
+app.use(express.static(path.join(__dirname, 'public')))
+
+// render our index page
 app.get('/', function (req, res) {
   res.render('index');
 });
