@@ -2,6 +2,9 @@ const express = require('express');
 const app = express();
 const sass = require('node-sass-middleware');
 const path = require('path');
+const bodyParser = require('body-parser');
+
+app.use(bodyParser.urlencoded({ extended: true }));
 
 app.set('view engine', 'ejs');
 
@@ -23,4 +26,9 @@ app.get('/', function (req, res) {
 
 app.listen(3333, function () {
   console.log('Example app listening on port 3333!');
+});
+
+app.post('/', function (req, res) {
+  res.render('index');
+  console.log(req.body.city);
 });
