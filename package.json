@@ -4,6 +4,7 @@
   "description": "Open Brewery DB app",
   "main": "index.js",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
     "express": "^4.16.4",
     "node-sass": "^4.11.0",
