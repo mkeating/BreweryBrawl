@@ -41,8 +41,8 @@ app.post('/', function (req, res) {
     } else {
       let breweries = JSON.parse(body);
 
-      if (breweries === undefined) {
-        res.render('index', { breweries: null, error: 'Error, please try again' });
+      if(breweries[0] === undefined){
+        res.render('index', {breweries: null, error: 'Error, please try again'});
       } else {
         let breweriesText = `Zee breweries of ${breweries[0].city}!`;
 
