@@ -15,6 +15,12 @@
                 <input name="city" type="text" class="ghost-input" placeholder="Enter a City" required>
                 <input type="submit" class="ghost-button" value="Get Brewery">
             </form>
+            <% if(breweries !== null){ %>
+                <p><%= breweries %></p>
+            <% } %>
+            <% if(error !== null){ %>
+                <p><%= error %></p>
+            <% } %>
         </fieldset>
     </div>
 </body>
