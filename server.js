@@ -21,7 +21,7 @@ app.use(express.static(path.join(__dirname, 'public')))
 
 // render our index page
 app.get('/', function (req, res) {
-  res.render('index', {breweries: null, error: null});
+  res.render('index', { breweries: null, error: null });
 });
 
 // fire up server on port 3333
@@ -35,18 +35,18 @@ app.post('/', function (req, res) {
   let url = `https://api.openbrewerydb.org/breweries?by_city=${city}`;
 
   request(url, function (err, response, body) {
-    if(err){
-      res.render('index', {breweries: null, error: 'Error, please try again'});
+    if (err) {
+      res.render('index', { breweries: null, error: 'Error, please try again' });
       console.log('error', err);
     } else {
       let breweries = JSON.parse(body);
 
-      if(breweries === undefined){
-        res.render('index', {breweries: null, error: 'Error, please try again'});
+      if (breweries === undefined) {
+        res.render('index', { breweries: null, error: 'Error, please try again' });
       } else {
         let breweriesText = `Zee breweries of ${breweries[0].city}!`;
 
-        res.render('index', {breweries: breweriesText, error: null});
+        res.render('index', { breweries: breweries, error: null });
         console.log('breweries:', breweries);
         console.log('breweriesText:', breweriesText);
       }

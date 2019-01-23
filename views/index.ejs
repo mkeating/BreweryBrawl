@@ -16,7 +16,11 @@
                 <input type="submit" class="ghost-button" value="Get Brewery">
             </form>
             <% if(breweries !== null){ %>
-                <p><%= breweries %></p>
+                <div class="brewery-search-results">
+                    <% breweries.forEach(function(brewery){ %>
+                        <%- include('components/brewery-block', {brewery: brewery}); %>
+                    <% }); %>
+                </div>
             <% } %>
             <% if(error !== null){ %>
                 <p><%= error %></p>
