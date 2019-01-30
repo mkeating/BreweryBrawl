@@ -23,4 +23,15 @@
             <a href="<%= brewery.website_url %>">Website</a>
         </div>
     <% } %>
+    <% if(brewery.longitude, brewery.latitude) { %>
+        <div class="brewery-map">
+                <iframe
+                id="map-frame"
+                width="150px"
+                height="150px"
+                frameborder="0" style="border:0"
+                src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCnPeSCSirjqSR0T5aX2dpKFhN9I7Xefjs&q=37.4218,-122.0840" allowfullscreen>
+                </iframe>
+        </div>
+    <% } %>
 </div>
