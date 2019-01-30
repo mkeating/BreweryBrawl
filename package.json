@@ -1,27 +1,29 @@
 {
-  "name": "brewerybrawl",
-  "version": "1.0.0",
-  "description": "Open Brewery DB app",
-  "main": "index.js",
-  "dependencies": {
-    "body-parser": "^1.18.3",
-    "ejs": "^2.6.1",
-    "express": "^4.16.4",
-    "node-sass": "^4.11.0",
-    "node-sass-middleware": "^0.11.0"
-  },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/JesseChamberlain/BreweryBrawl.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/JesseChamberlain/BreweryBrawl/issues"
-  },
-  "homepage": "https://github.com/JesseChamberlain/BreweryBrawl#readme"
+    "name": "brewerybrawl",
+    "version": "1.0.0",
+    "description": "Open Brewery DB app",
+    "main": "index.js",
+    "dependencies": {
+        "body-parser": "^1.18.3",
+        "ejs": "^2.6.1",
+        "express": "^4.16.4",
+        "node-sass": "^4.11.0",
+        "node-sass-middleware": "^0.11.0"
+    },
+    "devDependencies": {
+        "prettier": "^1.16.2"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/JesseChamberlain/BreweryBrawl.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/JesseChamberlain/BreweryBrawl/issues"
+    },
+    "homepage": "https://github.com/JesseChamberlain/BreweryBrawl#readme"
 }
