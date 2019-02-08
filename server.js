@@ -13,7 +13,7 @@ app.set('view engine', 'ejs');
 app.use(
     sass({
         /* Options */
-        src: __dirname + '/sass',
+        src: __dirname + '/src/sass',
         dest: __dirname + '/public/css',
         debug: true,
         outputStyle: 'compressed'
