@@ -11,4 +11,6 @@ Run webpack bundler: `npm run build`
 
 Run the server: `node server.js`
 
+To watch for changes: `npm run start`
+
 Available at: http://localhost:3333/

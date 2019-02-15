@@ -1,0 +1,453 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 0.066,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 0,
+      "measure": "seconds"
+    }
+  },
+  "notifications": [],
+  "response": {
+    "engine": "_algolia",
+    "page": 0,
+    "search_type": "exact",
+    "sort": "",
+    "term": "\"MA\"",
+    "key": "\"MA\"",
+    "found": 35,
+    "brewery": {
+      "count": 25,
+      "items": [
+        {
+          "brewery": {
+            "brewery_id": 335168,
+            "beer_count": 9,
+            "brewery_name": "M.A. (Homebrew)",
+            "brewery_slug": "ma",
+            "brewery_page_url": "/MAbrewery",
+            "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+            "country_name": "France",
+            "location": {
+              "brewery_city": "",
+              "brewery_state": "",
+              "lat": 0,
+              "lng": 0
+            }
+          }
+        },
+        {
+          "brewery": {
+            "brewery_id": 86883,
+            "beer_count": 152,
+            "brewery_name": "MABRASSERIE",
+            "brewery_slug": "mabrasserie",
+            "brewery_page_url": "/MABRASSERIE",
+            "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-86883_dd3c5.jpeg",
+            "country_name": "Canada",
+            "location": {
+              "brewery_city": "Montreal",
+              "brewery_state": "QC",
+              "lat": 45.5434,
+              "lng": -73.5849
+            }
+          }
+        },
+        {
+          "brewery": {
+            "brewery_id": 183192,
+            "beer_count": 8,
+            "brewery_name": "Ma'am",
+            "brewery_slug": "maam",
+            "brewery_page_url": "/w/ma-am/183192",
+            "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+            "country_name": "Italy",
+            "location": {
+              "brewery_city": "",
+              "brewery_state": "",
+              "lat": 0,
+              "lng": 0
+            }
+          }
+        },
+        {
+          "brewery": {
+            "brewery_id": 164919,
+            "beer_count": 8,
+            "brewery_name": "M.-A. Herout",
+            "brewery_slug": "ma-herout",
+            "brewery_page_url": "/w/m-a-herout/164919",
+            "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+            "country_name": "France",
+            "location": {
+              "brewery_city": "",
+              "brewery_state": "",
+              "lat": 0,
+              "lng": 0
+            }
+          }
+        },
+        {
+          "brewery": {
+            "brewery_id": 339459,
+            "beer_count": 1,
+            "brewery_name": "Ma Cameron's",
+            "brewery_slug": "ma-camerons",
+            "brewery_page_url": "/w/ma-cameron-s/339459",
+            "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+            "country_name": "Scotland",
+            "location": {
+              "brewery_city": "",
+              "brewery_state": "",
+              "lat": 0,
+              "lng": 0
+            }
+          }
+        },
+        {
+          "brewery": {
+            "brewery_id": 84240,
+            "beer_count": 2,
+            "brewery_name": "Ma La Sun",
+            "brewery_slug": "ma-la-sun",
+            "brewery_page_url": "/w/ma-la-sun/84240",
+            "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-84240_c3fe2.jpeg",
+            "country_name": "Taiwan",
+            "location": {
+              "brewery_city": "",
+              "brewery_state": "",
+              "lat": 0,
+              "lng": 0
+            }
+          }
+        },
+        {
+          "brewery": {
+            "brewery_id": 16932,
+            "beer_count": 17,
+            "brewery_name": "Jukka-ma-boog (Homebrew)",
+            "brewery_slug": "jukkamaboog",
+            "brewery_page_url": "/jukkamaboog",
+            "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+            "country_name": "United States",
+            "location": {
+              "brewery_city": "",
+              "brewery_state": "",
+              "lat": 0,
+              "lng": 0
+            }
+          }
+        },
+        {
+          "brewery": {
+            "brewery_id": 203881,
+            "beer_count": 6,
+            "brewery_name": "Wheelhouse (Holliston - MA, USA) (Homebrew)",
+            "brewery_slug": "wheelhouse-holliston-ma-usa",
+            "brewery_page_url": "/HollistonWheelhouse",
+            "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-203881_6aab7.jpeg",
+            "country_name": "United States",
+            "location": {
+              "brewery_city": "",
+              "brewery_state": "",
+              "lat": 0,
+              "lng": 0
+            }
+          }
+        },
+        {
+          "brewery": {
+            "brewery_id": 70507,
+            "beer_count": 1,
+            "brewery_name": "Zhou Ma (Homebrew)",
+            "brewery_slug": "zhou-ma",
+            "brewery_page_url": "/w/zhou-ma/70507",
+            "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+            "country_name": "China / People's Republic of China",
+            "location": {
+              "brewery_city": "",
+              "brewery_state": "",
+              "lat": 0,
+              "lng": 0
+            }
+          }
+        },
+        {
+          "brewery": {
+            "brewery_id": 394920,
+            "beer_count": 5,
+            "brewery_name": "Ma Bière Atelier De Brassage",
+            "brewery_slug": "ma-biere-atelier-de-brassage",
+            "brewery_page_url": "/w/ma-bi-re-atelier-de-brassage/394920",
+            "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+            "country_name": "France",
+            "location": {
+              "brewery_city": "",
+              "brewery_state": "",
+              "lat": 0,
+              "lng": 0
+            }
+          }
+        },
+        {
+          "brewery": {
+            "brewery_id": 375372,
+            "beer_count": 4,
+            "brewery_name": "Ma Première Bière",
+            "brewery_slug": "ma-premiere-biere",
+            "brewery_page_url": "/w/ma-premi-re-bi-re/375372",
+            "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+            "country_name": "France",
+            "location": {
+              "brewery_city": "",
+              "brewery_state": "",
+              "lat": 0,
+              "lng": 0
+            }
+          }
+        },
+        {
+          "brewery": {
+            "brewery_id": 149013,
+            "beer_count": 1,
+            "brewery_name": "12th Ma'am Brewing (Homebrew)",
+            "brewery_slug": "12th-maam-brewing",
+            "brewery_page_url": "/w/12th-maam-brewing/149013",
+            "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+            "country_name": "United States",
+            "location": {
+              "brewery_city": "",
+              "brewery_state": "",
+              "lat": 0,
+              "lng": 0
+            }
+          }
+        },
+        {
+          "brewery": {
+            "brewery_id": 342738,
+            "beer_count": 4,
+            "brewery_name": "MA-Davidsons Home Brewery  (Homebrew)",
+            "brewery_slug": "madavidsons-home-brewery",
+            "brewery_page_url": "/w/ma-davidsons-home-brewery/342738",
+            "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+            "country_name": "United States",
+            "location": {
+              "brewery_city": "",
+              "brewery_state": "",
+              "lat": 0,
+              "lng": 0
+            }
+          }
+        },
+        {
+          "brewery": {
+            "brewery_id": 338373,
+            "beer_count": 2,
+            "brewery_name": "Må Feier Brygg (Homebrew)",
+            "brewery_slug": "ma-feier-brygg",
+            "brewery_page_url": "/w/m-feier-brygg/338373",
+            "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+            "country_name": "Norway",
+            "location": {
+              "brewery_city": "",
+              "brewery_state": "",
+              "lat": 0,
+              "lng": 0
+            }
+          }
+        },
+        {
+          "brewery": {
+            "brewery_id": 132080,
+            "beer_count": 4,
+            "brewery_name": "Ma Kega Brewery (Homebrew)",
+            "brewery_slug": "ma-kega-brewery",
+            "brewery_page_url": "/w/ma-kega-brewery/132080",
+            "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+            "country_name": "United States",
+            "location": {
+              "brewery_city": "",
+              "brewery_state": "",
+              "lat": 0,
+              "lng": 0
+            }
+          }
+        },
+        {
+          "brewery": {
+            "brewery_id": 363394,
+            "beer_count": 2,
+            "brewery_name": "Uilse Brouwerij Co Ma (Homebrew)",
+            "brewery_slug": "uilse-brouwerij-co-ma",
+            "brewery_page_url": "/w/uilse-brouwerij-co-ma/363394",
+            "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+            "country_name": "Belgium",
+            "location": {
+              "brewery_city": "",
+              "brewery_state": "",
+              "lat": 0,
+              "lng": 0
+            }
+          }
+        },
+        {
+          "brewery": {
+            "brewery_id": 318869,
+            "beer_count": 2,
+            "brewery_name": "Mercury Brewing Co., Ipswich, Ma",
+            "brewery_slug": "mercury-brewing-co-ipswich-ma",
+            "brewery_page_url": "/w/mercury-brewing-co-ipswich-ma/318869",
+            "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+            "country_name": "United States",
+            "location": {
+              "brewery_city": "",
+              "brewery_state": "",
+              "lat": 0,
+              "lng": 0
+            }
+          }
+        },
+        {
+          "brewery": {
+            "brewery_id": 55027,
+            "beer_count": 2,
+            "brewery_name": "Ma & Pa Brews (Homebrew)",
+            "brewery_slug": "ma-and-pa-brews",
+            "brewery_page_url": "/w/ma-pa-brews/55027",
+            "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+            "country_name": "United States",
+            "location": {
+              "brewery_city": "",
+              "brewery_state": "",
+              "lat": 0,
+              "lng": 0
+            }
+          }
+        },
+        {
+          "brewery": {
+            "brewery_id": 309942,
+            "beer_count": 2,
+            "brewery_name": "Bob's Ma Homebrew (Homebrew)",
+            "brewery_slug": "bobs-ma-homebrew",
+            "brewery_page_url": "/w/bob-s-ma-homebrew/309942",
+            "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+            "country_name": "United States",
+            "location": {
+              "brewery_city": "",
+              "brewery_state": "",
+              "lat": 0,
+              "lng": 0
+            }
+          }
+        },
+        {
+          "brewery": {
+            "brewery_id": 289963,
+            "beer_count": 1,
+            "brewery_name": "The Tap Haverill Ma",
+            "brewery_slug": "the-tap-haverill-ma",
+            "brewery_page_url": "/w/the-tap-haverill-ma/289963",
+            "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+            "country_name": "United States",
+            "location": {
+              "brewery_city": "",
+              "brewery_state": "",
+              "lat": 0,
+              "lng": 0
+            }
+          }
+        },
+        {
+          "brewery": {
+            "brewery_id": 355090,
+            "beer_count": 1,
+            "brewery_name": "205 Parsons Street Brighton MA (Homebrew)",
+            "brewery_slug": "205-parsons-street-brighton-ma",
+            "brewery_page_url": "/w/205-parsons-street-brighton-ma/355090",
+            "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+            "country_name": "United States",
+            "location": {
+              "brewery_city": "",
+              "brewery_state": "",
+              "lat": 0,
+              "lng": 0
+            }
+          }
+        },
+        {
+          "brewery": {
+            "brewery_id": 90621,
+            "beer_count": 1,
+            "brewery_name": "MA's Porch Brewery (Homebrew)",
+            "brewery_slug": "mas-porch-brewery",
+            "brewery_page_url": "/w/ma-s-porch-brewery/90621",
+            "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+            "country_name": "United States",
+            "location": {
+              "brewery_city": "",
+              "brewery_state": "",
+              "lat": 0,
+              "lng": 0
+            }
+          }
+        },
+        {
+          "brewery": {
+            "brewery_id": 67231,
+            "beer_count": 1,
+            "brewery_name": "Ma & Pa Brews (Homebrew)",
+            "brewery_slug": "ma-and-pa-brews",
+            "brewery_page_url": "/w/ma-pa-brews/67231",
+            "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+            "country_name": "United States",
+            "location": {
+              "brewery_city": "",
+              "brewery_state": "",
+              "lat": 0,
+              "lng": 0
+            }
+          }
+        },
+        {
+          "brewery": {
+            "brewery_id": 404177,
+            "beer_count": 1,
+            "brewery_name": "Ma Biere",
+            "brewery_slug": "ma-biere",
+            "brewery_page_url": "/w/ma-biere/404177",
+            "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+            "country_name": "France",
+            "location": {
+              "brewery_city": "",
+              "brewery_state": "",
+              "lat": 0,
+              "lng": 0
+            }
+          }
+        },
+        {
+          "brewery": {
+            "brewery_id": 330041,
+            "beer_count": 3,
+            "brewery_name": "Ma⋅tiand'r   (Homebrew)",
+            "brewery_slug": "matiandr",
+            "brewery_page_url": "/w/ma-tiand-r/330041",
+            "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+            "country_name": "Denmark",
+            "location": {
+              "brewery_city": "",
+              "brewery_state": "",
+              "lat": 0,
+              "lng": 0
+            }
+          }
+        }
+      ]
+    }
+  }
+}
