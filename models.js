@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-class User {
+class Brewery {
   constructor() {
     this.api = axios.create({
       baseURL: 'http://localhost:3000' // json-server endpoint
@@ -8,8 +8,8 @@ class User {
   }
 
   list() {
-    return this.api.get('/users').then(res => res.data)
+    return this.api.get('/breweries').then(res => res.data)
   }
 }
 
-export default new User()
+export default new Brewery()

@@ -1,25 +1,31 @@
 import { gql } from 'apollo-server-express'
-import userModel from './models'
+import breweryModel from './models'
 
 export const typeDefs = gql`
-  type User {
-    id: ID
-    name: String
-    age: Int
-    email: String
-    friends: [User]
+  type Brewery {
+    brewery_id: ID!
+    brewery_name: String!
+    brewery_label: String
+    location: [Location]
+  }
+
+  type Location {
+    brewery_city: String
+    brewery_state: String
+    lat: Float
+    lng: Float
   }
 
   type Query {
-    users: [User]
+    brewery: [Brewery]
   }
 `
 
 
 export const resolvers = {
   Query: {
-    users() {
-      return userModel.list()
+    brewery() {
+      return breweryModel.list()
     }
   }
 }
