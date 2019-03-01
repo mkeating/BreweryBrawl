@@ -12,6 +12,381 @@
           "lng": -74.0119
         }
       ]
+    },
+    {
+      "brewery_id": 1204,
+      "beer_count": 1297,
+      "brewery_name": "Stone Brewing",
+      "brewery_slug": "stone-brewing",
+      "brewery_page_url": "/StoneBrewing",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-1204_a1e0b.jpeg",
+      "country_name": "United States",
+      "location": {
+        "brewery_city": "Escondido",
+        "brewery_state": "CA",
+        "lat": 33.1157,
+        "lng": -117.12
+      }
+    },
+    {
+      "brewery_id": 1142,
+      "beer_count": 910,
+      "brewery_name": "Sierra Nevada Brewing Co.",
+      "brewery_slug": "sierra-nevada-brewing-co",
+      "brewery_page_url": "/SierraNevada",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-1142_ddcfe.jpeg",
+      "country_name": "United States",
+      "location": {
+        "brewery_city": "Chico",
+        "brewery_state": "CA",
+        "lat": 39.7242,
+        "lng": -121.815
+      }
+    },
+    {
+      "brewery_id": 549,
+      "beer_count": 622,
+      "brewery_name": "Founders Brewing Co.",
+      "brewery_slug": "founders-brewing-co",
+      "brewery_page_url": "/foundersbrewing",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-549_53a84.jpeg",
+      "country_name": "United States",
+      "location": {
+        "brewery_city": "Grand Rapids",
+        "brewery_state": "MI",
+        "lat": 42.9585,
+        "lng": -85.6735
+      }
+    },
+    {
+      "brewery_id": 157,
+      "beer_count": 652,
+      "brewery_name": "Boston Beer Company",
+      "brewery_slug": "boston-beer-company",
+      "brewery_page_url": "/samadams",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-157_6a2d2.jpeg",
+      "country_name": "United States",
+      "location": {
+        "brewery_city": "Boston",
+        "brewery_state": "MA",
+        "lat": 42.3144,
+        "lng": -71.1034
+      }
+    },
+    {
+      "brewery_id": 905,
+      "beer_count": 703,
+      "brewery_name": "New Belgium Brewing Company",
+      "brewery_slug": "new-belgium-brewing-company",
+      "brewery_page_url": "/NewBelgium",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-905_2ddc7.jpeg",
+      "country_name": "United States",
+      "location": {
+        "brewery_city": "Fort Collins",
+        "brewery_state": "CO",
+        "lat": 40.5934,
+        "lng": -105.067
+      }
+    },
+    {
+      "brewery_id": 459,
+      "beer_count": 704,
+      "brewery_name": "Dogfish Head Craft Brewery",
+      "brewery_slug": "dogfish-head-craft-brewery",
+      "brewery_page_url": "/dogfishbeer",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-459_7c86a.jpeg",
+      "country_name": "United States",
+      "location": {
+        "brewery_city": "Milton",
+        "brewery_state": "DE",
+        "lat": 38.7776,
+        "lng": -75.3099
+      }
+    },
+    {
+      "brewery_id": 765,
+      "beer_count": 639,
+      "brewery_name": "Lagunitas Brewing Company",
+      "brewery_slug": "lagunitas-brewing-company",
+      "brewery_page_url": "/LagunitasBrewingCo",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-765_b53eb.jpeg",
+      "country_name": "United States",
+      "location": {
+        "brewery_city": "Petaluma",
+        "brewery_state": "CA",
+        "lat": 38.2724,
+        "lng": -122.662
+      }
+    },
+    {
+      "brewery_id": 2898,
+      "beer_count": 935,
+      "brewery_name": "Goose Island Beer Co.",
+      "brewery_slug": "goose-island-beer-co",
+      "brewery_page_url": "/gooseisland",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-2898_7ee53.jpeg",
+      "country_name": "United States",
+      "location": {
+        "brewery_city": "Chicago",
+        "brewery_state": "IL",
+        "lat": 41.8871,
+        "lng": -87.6721
+      }
+    },
+    {
+      "brewery_id": 68,
+      "beer_count": 1048,
+      "brewery_name": "Ballast Point Brewing Company",
+      "brewery_slug": "ballast-point-brewing-company",
+      "brewery_page_url": "/BallastPoint",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-68_bcee7.jpeg",
+      "country_name": "United States",
+      "location": {
+        "brewery_city": "San Diego",
+        "brewery_state": "CA",
+        "lat": 32.8882,
+        "lng": -117.158
+      }
+    },
+    {
+      "brewery_id": 2507,
+      "beer_count": 344,
+      "brewery_name": "Bell's Brewery",
+      "brewery_slug": "bells-brewery",
+      "brewery_page_url": "/bellsbrewery",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-2507_ad044.jpeg",
+      "country_name": "United States",
+      "location": {
+        "brewery_city": "Comstock",
+        "brewery_state": "MI",
+        "lat": 42.2843,
+        "lng": -85.4538
+      }
+    },
+    {
+      "brewery_id": 441,
+      "beer_count": 948,
+      "brewery_name": "Deschutes Brewery",
+      "brewery_slug": "deschutes-brewery",
+      "brewery_page_url": "/DeschutesBrewery",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-441_8b2ad.jpeg",
+      "country_name": "United States",
+      "location": {
+        "brewery_city": "Bend",
+        "brewery_state": "OR",
+        "lat": 44.0469,
+        "lng": -121.322
+      }
+    },
+    {
+      "brewery_id": 241,
+      "beer_count": 349,
+      "brewery_name": "BrewDog",
+      "brewery_slug": "brewdog",
+      "brewery_page_url": "/brewdogbrewery",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-241_8c584.jpeg",
+      "country_name": "Scotland",
+      "location": {
+        "brewery_city": "Ellon",
+        "brewery_state": "Aberdeenshire",
+        "lat": 57.3716,
+        "lng": -2.04834
+      }
+    },
+    {
+      "brewery_id": 524,
+      "beer_count": 421,
+      "brewery_name": "Firestone Walker Brewing Company",
+      "brewery_slug": "firestone-walker-brewing-company",
+      "brewery_page_url": "/firestonewalker",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-524_e835d.jpeg",
+      "country_name": "United States",
+      "location": {
+        "brewery_city": "Paso Robles",
+        "brewery_state": "CA",
+        "lat": 35.5953,
+        "lng": -120.694
+      }
+    },
+    {
+      "brewery_id": 4586,
+      "beer_count": 293,
+      "brewery_name": "Southern Tier Brewing Company",
+      "brewery_slug": "southern-tier-brewing-company",
+      "brewery_page_url": "/southerntierbrewing",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-4586_47eba.jpeg",
+      "country_name": "United States",
+      "location": {
+        "brewery_city": "Lakewood",
+        "brewery_state": "NY",
+        "lat": 42.0889,
+        "lng": -79.3482
+      }
+    },
+    {
+      "brewery_id": 1514,
+      "beer_count": 165,
+      "brewery_name": "Boulevard Brewing Co.",
+      "brewery_slug": "boulevard-brewing-co",
+      "brewery_page_url": "/boulevard",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-1514_2003e.jpeg",
+      "country_name": "United States",
+      "location": {
+        "brewery_city": "Kansas City",
+        "brewery_state": "MO",
+        "lat": 39.0812,
+        "lng": -94.5954
+      }
+    },
+    {
+      "brewery_id": 1326,
+      "beer_count": 656,
+      "brewery_name": "Victory Brewing Company",
+      "brewery_slug": "victory-brewing-company",
+      "brewery_page_url": "/victorybeer",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-1326_6ca88.jpeg",
+      "country_name": "United States",
+      "location": {
+        "brewery_city": "Downingtown",
+        "brewery_state": "PA",
+        "lat": 40.0061,
+        "lng": -75.6942
+      }
+    },
+    {
+      "brewery_id": 2813,
+      "beer_count": 941,
+      "brewery_name": "Mikkeller",
+      "brewery_slug": "mikkeller",
+      "brewery_page_url": "/mikkellerbeer",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-2813_649c4.jpeg",
+      "country_name": "Denmark",
+      "location": {
+        "brewery_city": "Copenhagen",
+        "brewery_state": "Region Hovedstaden",
+        "lat": 55.6732,
+        "lng": 12.5588
+      }
+    },
+    {
+      "brewery_id": 3735,
+      "beer_count": 337,
+      "brewery_name": "Evil Twin Brewing",
+      "brewery_slug": "evil-twin-brewing",
+      "brewery_page_url": "/eviltwinbrewing",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3735_539d4.jpeg",
+      "country_name": "United States",
+      "location": {
+        "brewery_city": "Brooklyn",
+        "brewery_state": "NY",
+        "lat": 40.7089,
+        "lng": -73.9691
+      }
+    },
+    {
+      "brewery_id": 4565,
+      "beer_count": 459,
+      "brewery_name": "Rogue Ales",
+      "brewery_slug": "rogue-ales",
+      "brewery_page_url": "/rogueales",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-rogue.jpg",
+      "country_name": "United States",
+      "location": {
+        "brewery_city": "Newport",
+        "brewery_state": "OR",
+        "lat": 44.6202,
+        "lng": -124.052
+      }
+    },
+    {
+      "brewery_id": 956,
+      "beer_count": 702,
+      "brewery_name": "Oskar Blues Brewery",
+      "brewery_slug": "oskar-blues-brewery",
+      "brewery_page_url": "/oskarblues",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-oskarBlues.jpg",
+      "country_name": "United States",
+      "location": {
+        "brewery_city": "Longmont",
+        "brewery_state": "CO",
+        "lat": 40.1391,
+        "lng": -105.122
+      }
+    },
+    {
+      "brewery_id": 49,
+      "beer_count": 87,
+      "brewery_name": "Guinness",
+      "brewery_slug": "guinness",
+      "brewery_page_url": "/Guinness",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-49_a79e8.jpeg",
+      "country_name": "Ireland",
+      "location": {
+        "brewery_city": "St. James's Gate",
+        "brewery_state": "Dublin",
+        "lat": 53.3437,
+        "lng": -6.28879
+      }
+    },
+    {
+      "brewery_id": 259,
+      "beer_count": 531,
+      "brewery_name": "Brooklyn Brewery",
+      "brewery_slug": "brooklyn-brewery",
+      "brewery_page_url": "/brooklynbrewery",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BrooklynBrewery_259.jpeg",
+      "country_name": "United States",
+      "location": {
+        "brewery_city": "Brooklyn",
+        "brewery_state": "NY",
+        "lat": 40.7215,
+        "lng": -73.9575
+      }
+    },
+    {
+      "brewery_id": 44,
+      "beer_count": 468,
+      "brewery_name": "Anheuser-Busch",
+      "brewery_slug": "anheuserbusch",
+      "brewery_page_url": "/AnheuserBusch",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-44_d96b6.jpeg",
+      "country_name": "United States",
+      "location": {
+        "brewery_city": "St. Louis",
+        "brewery_state": "MO",
+        "lat": 38.5985,
+        "lng": -90.2094
+      }
+    },
+    {
+      "brewery_id": 62,
+      "beer_count": 478,
+      "brewery_name": "Avery Brewing Co.",
+      "brewery_slug": "avery-brewing-co",
+      "brewery_page_url": "/AveryBrewingCo",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-62_00c58.jpeg",
+      "country_name": "United States",
+      "location": {
+        "brewery_city": "Boulder",
+        "brewery_state": "CO",
+        "lat": 40.0625,
+        "lng": -105.205
+      }
+    },
+    {
+      "brewery_id": 2470,
+      "beer_count": 309,
+      "brewery_name": "3 Floyds Brewing Company",
+      "brewery_slug": "3-floyds-brewing-company",
+      "brewery_page_url": "/3floyds",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-2470_fbcd9.jpeg",
+      "country_name": "United States",
+      "location": {
+        "brewery_city": "Munster",
+        "brewery_state": "IN",
+        "lat": 41.5355,
+        "lng": -87.5167
+      }
     }
   ]
 }

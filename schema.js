@@ -4,8 +4,12 @@ import breweryModel from './models'
 export const typeDefs = gql`
   type Brewery {
     brewery_id: ID!
+    beer_count: Int
     brewery_name: String!
+    brewery_slug: String
+    brewery_page_url: String
     brewery_label: String
+    country_name: String
     location: [Location]
   }
 
@@ -15,7 +19,7 @@ export const typeDefs = gql`
     lat: Float
     lng: Float
   }
-
+  
   type Query {
     brewery: [Brewery]
   }
