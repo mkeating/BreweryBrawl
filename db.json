@@ -4,14 +4,12 @@
       "brewery_id": 1149,
       "brewery_name": "Sixpoint Brewery",
       "brewery_label": "https://d1c8v1qci5en44.cloudfront.net/site/brewery_logos/brewery-SixpointBrewery_1149.jpeg",
-      "location": [
-        {
-          "brewery_city": "Brooklyn",
-          "brewery_state": "NY",
-          "lat": 40.6739,
-          "lng": -74.0119
-        }
-      ]
+      "location": {
+        "brewery_city": "Brooklyn",
+        "brewery_state": "NY",
+        "lat": 40.6739,
+        "lng": -74.0119
+      }
     },
     {
       "brewery_id": 1204,

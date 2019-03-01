@@ -10,7 +10,7 @@ export const typeDefs = gql`
     brewery_page_url: String
     brewery_label: String
     country_name: String
-    location: [Location]
+    location: Location
   }
 
   type Location {
@@ -19,7 +19,7 @@ export const typeDefs = gql`
     lat: Float
     lng: Float
   }
-  
+
   type Query {
     brewery: [Brewery]
   }
