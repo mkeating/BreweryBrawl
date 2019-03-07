@@ -4,8 +4,10 @@ const app = express();
 const sass = require('node-sass-middleware');
 const path = require('path');
 const bodyParser = require('body-parser');
+const cors = require('cors');
 require('dotenv').config();
 
+app.use(cors());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.set('view engine', 'ejs');
 
@@ -25,6 +27,11 @@ app.use(express.static(path.join(__dirname, 'public')));
 // render our index page
 app.get('/', function(req, res) {
     res.render('index', { breweries: null, error: null });
+});
+
+//render graphql test page
+app.get('/graphtest', function(req, res) {
+  res.render('graphtest');
 });
 
 // fire up server
