@@ -1,3 +1,9 @@
+
+body{
+  font-family: 'Overpass', sans-serif;
+  color: #333;
+  font-size: 16px;
+}
 .ghost-input {
     background-color: blue;
     font-weight: bold;
@@ -29,6 +35,16 @@
 }
 
 .brewery-card {
-  border: 1px solid green;
-  margin: 10px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  min-height: 50px;
+  margin: 20px;
+  padding: 20px;
+}
+
+.brewery-name {
+  font-size: 2rem;
+}
+.brewery-city {
+  font-size: 1rem;
+  opacity: .8;
 }

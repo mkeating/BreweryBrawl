@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
       fetch('http://localhost:3500/graphql', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json'},
-        body: JSON.stringify({ query: '{ brewery {brewery_name } }'}),
+        body: JSON.stringify({ query: '{ brewery { brewery_name, location { brewery_city } } }'}),
       })
         .then(res => res.json())
         .then(res => {
@@ -40,7 +40,7 @@ document.addEventListener('DOMContentLoaded', () => {
           const breweries = res.data.brewery.map(item => {
             let element = document.createElement('div');
             element.className = 'brewery-card';
-            element.innerHTML = item.brewery_name;
+            element.innerHTML = `<div class="brewery-name">${item.brewery_name}</div><br/><div class="brewery-city">${item.location.brewery_city}</div>`;
             return element;
           })
 
