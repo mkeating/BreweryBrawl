@@ -15,10 +15,11 @@ app.set('view engine', 'ejs');
 app.use(
     sass({
         /* Options */
-        src: __dirname + '/src/sass',
-        dest: __dirname + '/public/css',
+        src: path.join(__dirname + '/src/sass'),
+        dest: path.join(__dirname + '/public/css'),
         debug: true,
-        outputStyle: 'compressed'
+        outputStyle: 'compressed',
+        prefix: '/css',
     })
 );
 
